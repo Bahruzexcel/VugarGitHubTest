@@ -9,6 +9,7 @@ public class Java {
         System.out.println("hello");
         System.out.println("new class");
         System.out.println("hi");
+        System.out.println("BBBB");
 
 
     }
