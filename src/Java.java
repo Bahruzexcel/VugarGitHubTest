@@ -5,6 +5,7 @@ public class Java {
         System.out.println("Vugar");
         System.out.println("test");
         System.out.println("Vugar++");
+        System.out.println("hello");
 
     }
 }
