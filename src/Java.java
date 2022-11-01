@@ -4,6 +4,7 @@ public class Java {
         System.out.println("Bahruz ++");
         System.out.println("Vugar");
         System.out.println("test");
+        System.out.println("Bahruz++");
 
     }
 }
