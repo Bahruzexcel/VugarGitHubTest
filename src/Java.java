@@ -7,6 +7,7 @@ public class Java {
         System.out.println("Bahruz");
         System.out.println("Vugar++");
         System.out.println("hello");
+        System.out.println("new class");
 
 
     }
