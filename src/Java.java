@@ -8,7 +8,7 @@ public class Java {
         System.out.println("Vugar++");
         System.out.println("hello");
         System.out.println("new class");
-        System.out.println("salam");
+        System.out.println("hi");
 
 
     }
