@@ -15,6 +15,9 @@ public class Java {
 
 
         System.out.println("DDDD");
+        System.out.println("BBBB");
+ System.out.println("BBcB");
+
 
 
     }
